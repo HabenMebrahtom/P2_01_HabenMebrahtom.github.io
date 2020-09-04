@@ -214,6 +214,11 @@ img {
      justify-content: space-evenly;
      align-items:center;  
    }
+
+   .ref {
+     border: 2px solid grey;
+     border-radius: 20%;
+   }
    
    .company-name {
      padding: 10px 0px;
